@@ -1,5 +1,5 @@
 <!--
-Into this file, we write a code for display user information.
+Into this file, we write a code for displaying user information.
 -->
 
 <?php
